@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lostbannerstudio.github.io/sitemap.xml

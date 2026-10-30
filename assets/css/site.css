@@ -319,6 +319,7 @@ h1, h2, h3 { line-height: 1.25; margin: 0; letter-spacing: 0.02em; }
 .page-head h1 {
   font-size: clamp(1.5rem, 5vw, 2.4rem);
   color: var(--gold);
+  text-transform: uppercase;
 }
 .page-head .deco { margin: 1rem auto 0; max-width: 22rem; }
 .page-head .meta {
@@ -399,6 +400,7 @@ h1, h2, h3 { line-height: 1.25; margin: 0; letter-spacing: 0.02em; }
   font-size: 1.15rem;
   color: var(--gold);
   letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 .legal h2::before {
   content: "";
